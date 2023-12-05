@@ -1,0 +1,33 @@
+
+h1, body {
+ 	color: ghostwhite;
+  font-size: 30px;
+  font-family: 'Hedvig Letters Serif', sans-serif;
+  }
+
+h2, h3 {
+ 	color: whitesmoke;
+  font-size: 20px;
+  font-family: 'Hedvig Letters Serif', sans-serif;
+  }
+
+  body {
+	font-family: 'Hedvig Letters Serif' , sans-serif;
+	background-image: url(images/Nrm.jpeg);
+}
+
+
+p {
+  color: whitesmoke;
+  font-size: 20px;
+  font-family: 'Hedvig Letters Serif', sans-serif;
+  }
+
+
+ a { href: !important;"https://www.netflix.com";
+  color: white;
+   }
+
+    .center {
+            text-align: center;
+        }
